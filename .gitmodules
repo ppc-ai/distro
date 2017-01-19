@@ -85,3 +85,6 @@
 [submodule "exe/luajit-rocks-original"]
 	path = exe/luajit-rocks-original
 	url = https://github.com/torch/luajit-rocks
+[submodule "exe/luajit-rocks-PPC64"]
+	path = exe/luajit-rocks-PPC64
+	url = https://github.com/PPC64/luajit-rocks

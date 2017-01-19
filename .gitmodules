@@ -82,3 +82,6 @@
 [submodule "extra/lua-cjson"]
 	path = extra/lua-cjson
 	url = https://github.com/mpx/lua-cjson
+[submodule "exe/luajit-rocks-original"]
+	path = exe/luajit-rocks-original
+	url = https://github.com/torch/luajit-rocks
